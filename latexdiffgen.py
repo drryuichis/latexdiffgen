@@ -61,5 +61,6 @@ flatten(DIR_TMP_NEW, main_file)
 diff(DIR_TMP_OLD, DIR_TMP_NEW, main_file)
 
 pdfgen(DIR_TMP_NEW, main_file)
+pdfgen(DIR_TMP_NEW, main_file)
 
 copy_to_root(DIR_TMP_NEW, main_file)

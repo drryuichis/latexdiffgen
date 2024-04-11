@@ -1,5 +1,6 @@
 tmp_new
 tmp_old
 *.pdf
+*.log
 
 .DS_Store
